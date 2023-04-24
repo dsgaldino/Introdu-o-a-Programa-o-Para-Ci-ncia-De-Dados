@@ -163,10 +163,3 @@ df_new['IDADE'].hist(bins=20)
 
 # Resposta:
 df_new.to_csv('../data/2017-02-01_156_-_Base_de_Dados_sample-limpo2.csv', index=False)
-
-
-# In[ ]:
-
-
-
-
